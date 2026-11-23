@@ -1,7 +1,7 @@
 ## Your Info:
 
-Matric Number:  
-Name:
+Matric Number:  301850
+Name: Nur Mashitah Binti Abu Jabbar
 
 ## Objective
 
