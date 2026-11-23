@@ -70,22 +70,6 @@ https://mashitahnur2406-art.github.io/my-resume-site/
 
 5. Git and GitHub for Beginners Tutorial (Kevin Stratvert)  
    https://www.youtube.com/watch?v=tRZGeaHPoaw
-=======
-HTML and CSS Tutorial - Create a Website for Beginners (freeCodeCamp)
-https://www.youtube.com/watch?v=kMT54MPz9oE
-
-A Brief Introduction to Git for Beginners (GitHub)
-https://www.youtube.com/watch?v=r8jQ9hVA2qs
-
-Getting Started with GitHub Pages for Beginners (GitHub)
-https://www.youtube.com/watch?v=b2r9Cdvssi0
-
-Git and GitHub for Beginners - Crash Course (freeCodeCamp)
-https://www.youtube.com/watch?v=RGOj5yH7evk
-
-Git and GitHub for Beginners Tutorial (Kevin Stratvert)
-https://www.youtube.com/watch?v=tRZGeaHPoaw
-
 
 
 
