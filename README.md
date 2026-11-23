@@ -48,10 +48,28 @@ https://<yourusername>.github.io/my-resume-site/
 
 ## What is the mistake?
 
+The Git instructions use placeholder information such as `<yourusername>` and `my-resume-site`. These placeholders must be replaced with the actual GitHub username and repository name. The GitHub Pages URL must also match the actual username and repository name.
+
 ## Link to your Resume
+
+https://mashitahnur2406-art.github.io/my-resume-site/
 
 ## Link of YouTube References (at least five references)
 
+1. HTML and CSS Tutorial - Create a Website for Beginners (freeCodeCamp)  
+   https://www.youtube.com/watch?v=kMT54MPz9oE
+
+2. A Brief Introduction to Git for Beginners (GitHub)  
+   https://www.youtube.com/watch?v=r8jQ9hVA2qs
+
+3. Getting Started with GitHub Pages for Beginners (GitHub)  
+   https://www.youtube.com/watch?v=b2r9Cdvssi0
+
+4. Git and GitHub for Beginners - Crash Course (freeCodeCamp)  
+   https://www.youtube.com/watch?v=RGOj5yH7evk
+
+5. Git and GitHub for Beginners Tutorial (Kevin Stratvert)  
+   https://www.youtube.com/watch?v=tRZGeaHPoaw
 
 
 
