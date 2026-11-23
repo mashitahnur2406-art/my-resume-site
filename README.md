@@ -52,8 +52,6 @@ The Git instructions use placeholder information such as <yourusername> and my-r
 ## Link to your Resume
 https://mashitahnur2406-art.github.io/my-resume-site/
 
-https://mashitahnur2406-art.github.io/my-resume-site/
-
 ## Link of YouTube References (at least five references)
 
 1. HTML and CSS Tutorial - Create a Website for Beginners (freeCodeCamp)  
